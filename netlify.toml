@@ -1,0 +1,3 @@
+# Static website: deploy the files in the repository root, unchanged.
+[build]
+  publish = "."
